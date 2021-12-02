@@ -1,0 +1,25 @@
+{
+  "name": "wrtc-dht",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bittorrent-dht": "^10.0.0",
+    "bittorrent-dht-sodium": "^1.2.0",
+    "wrtc": "^0.4.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.0"
+  }
+}
